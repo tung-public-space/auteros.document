@@ -1,0 +1,482 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Clever Mega Menu for Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-05 07:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: clever-megamenu-for-elementor.php:99
+msgid "Activate Elementor"
+msgstr ""
+
+#: includes/post-types/menu-location.php:56
+#: includes/post-types/menu-location.php:57
+msgid "Add New Menu Location"
+msgstr ""
+
+#: includes/post-types/menu-theme.php:54 includes/post-types/menu-theme.php:55
+msgid "Add New Menu Skin"
+msgstr ""
+
+#: includes/post-types/cmm4e-menu.php:54
+msgid "All Menu Items"
+msgstr ""
+
+#: includes/admin/pages/import-export.php:111
+msgid "All menu skins"
+msgstr ""
+
+#: includes/elementor/controls/document.php:43
+msgid "Anyone"
+msgstr ""
+
+#: includes/elementor/controls/document.php:157
+msgid "Badge Background Color"
+msgstr ""
+
+#: includes/elementor/controls/document.php:130
+msgid "Badge Label"
+msgstr ""
+
+#: includes/elementor/controls/document.php:142
+msgid "Badge Label Color"
+msgstr ""
+
+#: includes/admin/pages/import-export.php:80
+msgid ""
+"Choose an import file from your computer then click on the \"Import\" button."
+msgstr ""
+
+#: includes/elementor/widgets/cmm4e.php:38
+msgid "Clever Mega Menu"
+msgstr ""
+
+#. Name of the plugin
+msgid "Clever Mega Menu for Elementor"
+msgstr ""
+
+#: clever-megamenu-for-elementor.php:96
+msgid "Clever Mega Menu for Elementor "
+msgstr ""
+
+#: includes/meta/menu-term.php:89
+msgid "Clever Mega Menu for Elementor Settings"
+msgstr ""
+
+#: includes/post-types/cmm4e-menu.php:53
+msgid "Clever Mega Menu Item"
+msgstr ""
+
+#: includes/post-types/cmm4e-menu.php:52
+msgid "Clever Mega Menu Items"
+msgstr ""
+
+#. Author of the plugin
+msgid "CleverSoft"
+msgstr ""
+
+#: clever-megamenu-for-elementor.php:202
+msgid "CMM4E"
+msgstr ""
+
+#: includes/admin/pages/dashboard.php:28
+msgid "Create a menu skin"
+msgstr ""
+
+#: includes/admin/pages/dashboard.php:22
+msgid "Create a Navigation Menu"
+msgstr ""
+
+#: includes/post-types/menu-location.php:85
+#: includes/post-types/menu-theme.php:80
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/post-types/menu-location.php:84
+#: includes/post-types/menu-theme.php:79
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/admin/pages/import-export.php:261
+msgid "Data have been imported successfully!"
+msgstr ""
+
+#: clever-megamenu-for-elementor.php:445
+msgid "Default Menu Skin"
+msgstr ""
+
+#: includes/elementor/controls/document.php:69
+msgid "Disable Link"
+msgstr ""
+
+#: includes/widgets/class-cmm4e-menu-widget.php:15
+msgid "Display a navigation menu by choosing a menu location."
+msgstr ""
+
+#: includes/meta/menu-location.php:64
+msgid "Display options"
+msgstr ""
+
+#: includes/admin/pages/dashboard.php:23
+msgid "edit an existing navigation menu"
+msgstr ""
+
+#: includes/post-types/menu-location.php:58
+msgid "Edit Menu Location"
+msgstr ""
+
+#: includes/post-types/menu-theme.php:56
+msgid "Edit Menu Skin"
+msgstr ""
+
+#: includes/post-types/cmm4e-menu.php:88
+msgid "Elementor failed to make mega menu item editable."
+msgstr ""
+
+#: includes/meta/menu-term.php:91
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/pages/import-export.php:119
+msgid "Export"
+msgstr ""
+
+#: includes/admin/pages/import-export.php:93
+msgid "Export Menu Skin"
+msgstr ""
+
+#: includes/admin/pages/import-export.php:273
+msgid "Failed to import data. Please try again!"
+msgstr ""
+
+#: clever-megamenu-for-elementor.php:451
+msgid "Failed to insert default menu skin!"
+msgstr ""
+
+#: includes/admin/pages/dashboard.php:21
+msgid "First Steps"
+msgstr ""
+
+#: includes/elementor/controls/document.php:190
+msgid "Flyout Panel Settings"
+msgstr ""
+
+#: includes/admin/pages/dashboard.php:37
+msgid "Get help at plugin helpdesk"
+msgstr ""
+
+#: includes/elementor/controls/document.php:85
+msgid "Hide on Desktop"
+msgstr ""
+
+#: includes/elementor/controls/document.php:77
+msgid "Hide on Mobile"
+msgstr ""
+
+#: includes/elementor/controls/document.php:93
+msgid "Hide Sub on Mobile"
+msgstr ""
+
+#: clever-megamenu-for-elementor.php:360 includes/mega-menu-walker.php:179
+msgid "Hot"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://zootemplate.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://cleveraddon.com/clever-mega-menu-for-elementor"
+msgstr ""
+
+#: includes/elementor/controls/document.php:101
+msgid "Icon"
+msgstr ""
+
+#: includes/admin/pages/import-export.php:87
+msgid "Import"
+msgstr ""
+
+#: includes/admin/pages/import-export.php:78
+msgid "Import Menu Skin"
+msgstr ""
+
+#: includes/admin/pages/import-export.php:58
+#: includes/admin/pages/import-export.php:59
+msgid "Import/Export"
+msgstr ""
+
+#: includes/admin/pages/import-export.php:74
+msgid "Import/Export Menu Skins"
+msgstr ""
+
+#: includes/meta/menu-location.php:106
+msgid ""
+"Insert the PHP code into any theme template where you want to display "
+"navigation menus using the current menu location."
+msgstr ""
+
+#: includes/meta/menu-location.php:95
+msgid ""
+"Insert the shortcode into any page or post where you want to display "
+"navigation menus using the current menu location."
+msgstr ""
+
+#: clever-megamenu-for-elementor.php:102
+msgid "Install Elementor"
+msgstr ""
+
+#: includes/admin/pages/dashboard.php:54 includes/admin/pages/dashboard.php:55
+#: includes/elementor/controls/document.php:61
+msgid "Mega Menu"
+msgstr ""
+
+#: includes/elementor/controls/document.php:226
+msgid "Mega Panel Settings"
+msgstr ""
+
+#: includes/elementor/widgets/cmm4e.php:72
+msgid "Menu Content"
+msgstr ""
+
+#: clever-megamenu-for-elementor.php:203
+msgid "Menu Item Options"
+msgstr ""
+
+#: includes/post-types/menu-location.php:54
+#: includes/widgets/class-cmm4e-menu-widget.php:80
+#: includes/elementor/widgets/cmm4e.php:89
+msgid "Menu Location"
+msgstr ""
+
+#: includes/post-types/menu-location.php:92
+msgid "Menu location draft updated."
+msgstr ""
+
+#: includes/post-types/menu-location.php:88
+msgid "Menu location published."
+msgstr ""
+
+#: includes/post-types/menu-location.php:87
+msgid "Menu location restored to revision from"
+msgstr ""
+
+#: includes/post-types/menu-location.php:89
+msgid "Menu location saved."
+msgstr ""
+
+#: includes/post-types/menu-location.php:91
+msgid "Menu location scheduled."
+msgstr ""
+
+#: includes/post-types/menu-location.php:90
+msgid "Menu location submitted."
+msgstr ""
+
+#: includes/post-types/menu-location.php:83
+#: includes/post-types/menu-location.php:86
+msgid "Menu location updated."
+msgstr ""
+
+#: includes/post-types/menu-location.php:53
+#: includes/post-types/menu-location.php:55
+msgid "Menu Locations"
+msgstr ""
+
+#: includes/elementor/widgets/cmm4e.php:79
+msgid "Menu Preset"
+msgstr ""
+
+#: includes/meta/menu-term.php:126
+msgid "Menu shortcode"
+msgstr ""
+
+#: includes/post-types/menu-theme.php:52
+msgid "Menu Skin"
+msgstr ""
+
+#: includes/meta/menu-term.php:114
+msgid "Menu skin"
+msgstr ""
+
+#: includes/post-types/menu-theme.php:87
+msgid "Menu skin draft updated."
+msgstr ""
+
+#: includes/post-types/menu-theme.php:83
+msgid "Menu skin published."
+msgstr ""
+
+#: includes/post-types/menu-theme.php:82
+msgid "Menu skin restored to revision from"
+msgstr ""
+
+#: includes/post-types/menu-theme.php:84
+msgid "Menu skin saved."
+msgstr ""
+
+#: includes/post-types/menu-theme.php:86
+msgid "Menu skin scheduled."
+msgstr ""
+
+#: includes/post-types/menu-theme.php:85
+msgid "Menu skin submitted."
+msgstr ""
+
+#: includes/post-types/menu-theme.php:78 includes/post-types/menu-theme.php:81
+msgid "Menu skin updated."
+msgstr ""
+
+#: includes/post-types/menu-theme.php:51 includes/post-types/menu-theme.php:53
+msgid "Menu Skins"
+msgstr ""
+
+#: includes/admin/pages/dashboard.php:34
+msgid "More Steps"
+msgstr ""
+
+#: includes/elementor/controls/document.php:132
+msgid "New"
+msgstr ""
+
+#: includes/elementor/widgets/cmm4e.php:116
+msgid "No menu location selected."
+msgstr ""
+
+#: includes/widgets/class-cmm4e-menu-widget.php:87
+msgid "No menu locations found."
+msgstr ""
+
+#: includes/admin/pages/import-export.php:117
+msgid "No menu skin found."
+msgstr ""
+
+#: includes/elementor/widgets/cmm4e.php:126
+msgid "None"
+msgstr ""
+
+#: includes/admin/pages/import-export.php:95
+msgid ""
+"Once you have saved the export file, you can use the import function to "
+"import the menu skin on any sites using the plugin."
+msgstr ""
+
+#: includes/admin/pages/dashboard.php:23
+msgid "or"
+msgstr ""
+
+#: includes/meta/menu-location.php:102
+msgid "PHP Code"
+msgstr ""
+
+#: clever-megamenu-for-elementor.php:204
+msgid "Please assign a menu location!"
+msgstr ""
+
+#: includes/admin/pages/dashboard.php:29
+msgid "Register a menu location"
+msgstr ""
+
+#: clever-megamenu-for-elementor.php:96
+msgid ""
+"requires Elementor Page Builder plugin to be active. Please install and "
+"activate Elementor Page Builder!"
+msgstr ""
+
+#: includes/elementor/controls/document.php:110
+msgid "Role & Restrictions"
+msgstr ""
+
+#: includes/admin/pages/import-export.php:110
+msgid "Select a menu skin"
+msgstr ""
+
+#: includes/meta/menu-term.php:121
+#, php-format
+msgid "Select a menu skin or %screate a new one%s."
+msgstr ""
+
+#: includes/meta/menu-term.php:98
+msgid "SEO markup"
+msgstr ""
+
+#: includes/meta/menu-location.php:91 includes/post-types/menu-location.php:131
+msgid "Shortcode"
+msgstr ""
+
+#: includes/elementor/controls/document.php:122
+msgid "Show Badge"
+msgstr ""
+
+#: includes/admin/pages/dashboard.php:18
+msgid ""
+"Thank you for using the plugin, here&#8217;re some resources to help you get "
+"started quickly"
+msgstr ""
+
+#: clever-megamenu-for-elementor.php:428
+msgid "This plugin requires PHP version 5.6 at least!"
+msgstr ""
+
+#: clever-megamenu-for-elementor.php:432
+msgid "This plugin requires WordPress version 4.7 at least!"
+msgstr ""
+
+#: includes/widgets/class-cmm4e-menu-widget.php:77
+msgid "Title:"
+msgstr ""
+
+#: includes/elementor/widgets/cmm4e.php:138
+msgid "Untitled Menu Skin"
+msgstr ""
+
+#: includes/admin/pages/import-export.php:84
+msgid "Upload File"
+msgstr ""
+
+#: includes/admin/pages/dashboard.php:17
+msgid "Welcome to Clever Mega Menu for Elementor!"
+msgstr ""
+
+#: includes/meta/menu-term.php:101
+#, php-format
+msgid "Whether to add %sschema markups%s for this menu or not."
+msgstr ""
+
+#: includes/meta/menu-term.php:94
+msgid "Whether to enable Mega Menu for this menu or not."
+msgstr ""
+
+#: includes/elementor/controls/document.php:198
+#: includes/elementor/controls/document.php:234
+msgid "Width"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"With ease of visual editing from Elementor Page Builder, Clever Mega Menu "
+"for Elementor helps you make stunning navigation menus easily without any "
+"coding knowledge. <a href=\"https://cleveraddon.com/clever-mega-menu-for-"
+"elementor\">Documentation</a> | <a href=\"https://cleveraddon.com/clever-"
+"mega-menu-for-elementor\">ChangeLogs</a></p>"
+msgstr ""
+
+#: clever-megamenu-for-elementor.php:205
+msgid "You haven&#8217;t selected a menu skin yet!"
+msgstr ""
+
+#: clever-megamenu-for-elementor.php:436
+msgid ""
+"Your WordPress content directory is not writeable. Please correct permission "
+"of the directory before installing this plugin!"
+msgstr ""
